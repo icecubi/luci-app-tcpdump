@@ -1,5 +1,5 @@
 msgid "Tcpdump"
-msgstr "Tcpdump 流量监控"
+msgstr "Tcpdump"
 
 msgid "Start network capture"
 msgstr "Tcpdump 流量监控"
